@@ -1,0 +1,28 @@
+.Movie {
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.Movie img {
+  max-width: 80px;
+  margin-right: 2em;
+}
+
+.Movie h3 {
+  flex-grow: 1;
+}
+
+.Movie-new {
+  background: #e43;
+  position: absolute;
+  font-size: 11px;
+  padding: 0 1.5em;
+  top: 5px;
+  left: -15px;
+  text-align: center;
+  color: #f0f0f0;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
