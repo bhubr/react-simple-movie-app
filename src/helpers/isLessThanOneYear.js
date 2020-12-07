@@ -10,6 +10,5 @@ export default function isLessThanOneYear(release) {
   date.setYear(pastYear);
 
   const releaseDate = new Date(release);
-  console.log(date, releaseDate);
   return releaseDate.getTime() > date.getTime();
 }
