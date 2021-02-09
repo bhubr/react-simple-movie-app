@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-movie-app/static/css/main.ab8cb700.chunk.css",
-    "main.js": "/react-movie-app/static/js/main.4063855c.chunk.js",
-    "main.js.map": "/react-movie-app/static/js/main.4063855c.chunk.js.map",
-    "runtime-main.js": "/react-movie-app/static/js/runtime-main.7fcdd815.js",
-    "runtime-main.js.map": "/react-movie-app/static/js/runtime-main.7fcdd815.js.map",
-    "static/js/2.c99c1de1.chunk.js": "/react-movie-app/static/js/2.c99c1de1.chunk.js",
-    "static/js/2.c99c1de1.chunk.js.map": "/react-movie-app/static/js/2.c99c1de1.chunk.js.map",
-    "static/js/3.41f44e76.chunk.js": "/react-movie-app/static/js/3.41f44e76.chunk.js",
-    "static/js/3.41f44e76.chunk.js.map": "/react-movie-app/static/js/3.41f44e76.chunk.js.map",
-    "index.html": "/react-movie-app/index.html",
-    "static/css/main.ab8cb700.chunk.css.map": "/react-movie-app/static/css/main.ab8cb700.chunk.css.map",
-    "static/js/2.c99c1de1.chunk.js.LICENSE.txt": "/react-movie-app/static/js/2.c99c1de1.chunk.js.LICENSE.txt"
+    "main.css": "/react-simple-movie-app/static/css/main.ab8cb700.chunk.css",
+    "main.js": "/react-simple-movie-app/static/js/main.4063855c.chunk.js",
+    "main.js.map": "/react-simple-movie-app/static/js/main.4063855c.chunk.js.map",
+    "runtime-main.js": "/react-simple-movie-app/static/js/runtime-main.3b86ee44.js",
+    "runtime-main.js.map": "/react-simple-movie-app/static/js/runtime-main.3b86ee44.js.map",
+    "static/js/2.c99c1de1.chunk.js": "/react-simple-movie-app/static/js/2.c99c1de1.chunk.js",
+    "static/js/2.c99c1de1.chunk.js.map": "/react-simple-movie-app/static/js/2.c99c1de1.chunk.js.map",
+    "static/js/3.41f44e76.chunk.js": "/react-simple-movie-app/static/js/3.41f44e76.chunk.js",
+    "static/js/3.41f44e76.chunk.js.map": "/react-simple-movie-app/static/js/3.41f44e76.chunk.js.map",
+    "index.html": "/react-simple-movie-app/index.html",
+    "static/css/main.ab8cb700.chunk.css.map": "/react-simple-movie-app/static/css/main.ab8cb700.chunk.css.map",
+    "static/js/2.c99c1de1.chunk.js.LICENSE.txt": "/react-simple-movie-app/static/js/2.c99c1de1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fcdd815.js",
+    "static/js/runtime-main.3b86ee44.js",
     "static/js/2.c99c1de1.chunk.js",
     "static/css/main.ab8cb700.chunk.css",
     "static/js/main.4063855c.chunk.js"
